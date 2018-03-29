@@ -1,0 +1,28 @@
+42
+##end
+fin 0 0
+gaetan 0 0
+arthur 0 0
+schumi 0 0
+cedric 0 0
+kcosta 0 0
+argirin 0 0
+gavizet 0 0
+cpoulet 0 0
+##start
+depart 0 0
+gaetan-gavizet
+arthur-argirin
+cedric-cpoulet
+schumi-kcosta
+gaetan-arthur
+arthur-schumi
+schumi-cedric
+gavizet-argirin
+argirin-kcosta
+kcosta-cpoulet
+depart-gavizet
+depart-arthur
+depart-argirin
+fin-cpoulet
+arthur-kcosta
